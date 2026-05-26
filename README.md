@@ -22,7 +22,6 @@ Infra:
   linux, nginx, docker, systemd, rabbitmq, cloudflare, pino,
   ci/cd, vps, monitoring, logging, production debugging
 
-
 Other:
   security research, crypto/fintech integrations,
   voip/telephony, analytics platforms
