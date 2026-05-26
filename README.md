@@ -1,3 +1,4 @@
+```
 ✨ Basic info
 
 Name: CaD
@@ -25,3 +26,4 @@ Infra:
 Other:
   security research, crypto/fintech integrations,
   voip/telephony, analytics platforms
+```
